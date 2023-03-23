@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-# Desafio2-Stage5-Explorer-Rocketseat
+# Desafio1-Stage6-Explorer-Rocketseat
