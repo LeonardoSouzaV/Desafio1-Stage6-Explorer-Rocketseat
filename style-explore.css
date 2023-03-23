@@ -1,0 +1,14 @@
+body {
+  background-image: url(assets/mountains-universe-3.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  max-height: 100%;
+}
+
+@media (min-width: 1025px) {
+  body {
+    background-size: 154rem 72rem;
+  }
+}
