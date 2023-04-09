@@ -1,11 +1,11 @@
 <h1 align="center"> SPA Universe</h1>
 
-<p align="center">Desafio feito pela equipe de instrutores da Rocketseat para o curso EXPLORER, para melhor entendimento sobre JavaScript com foco em SPA e rotas <br/>
+<p align="center">Challenge made by the team of instructors at Rocketseat for EXPLORER, for a better understanding of JavaScript with a focus on SPA and routes<br/>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
 </p>
 
 <p align="center">
@@ -15,38 +15,40 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto FocusTimer versão 2.0" src=".github\READMEcapa.png" width="100%">
+  <img alt="Project SPA Universe" src=".github\README15-1.bmp" width="100%">
+   <img alt="Project SPA Universe" src=".github\README15-2.bmp" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
-- JavaScript
-- Figma
+- HTML and CSS;
+- JavaScript;
+- Figma;
 
-## 💻 Projeto
 
-O SPA Universe foi desenvolvido para estudar a construção de uma SPA e o uso de rotas com JavaScript. Entre os temas mais presentes estão:
+## 💻 Project
 
--- É necessario adicionar node_modules ao arquivo e rodar o lite-server para que a aplicação funcione corretamente!
+SPA Universe was developed to study the construction of a SPA and the use of routes with JavaScript. Among the most common themes are:
 
-- Estrutura de dados no HTML;
-- Mudança de background-image;
+-- It is necessary to add node_modules to the file and run the lite-server for the application to work correctly! (node_modules its on .gitignore)
+
+- Data structure in HTML;
+- Background-image change;
 - Mobile First;
-- Conceitos de SPA;
-- Mapeamento de rotas;
-- Assíncrono e promises;
-- Orientação a objetos;
+- SPA concepts;
+- Route mapping;
+- Asynchronous and promises;
+- Object orientation;
 - Classes;
 
-## 🗒️ Licença
+## 🗒️ License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license.
 
 ---
 
-Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 
 # Desafio1-Stage6-Explorer-Rocketseat
