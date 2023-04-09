@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O SPA Universe foi desenvolvido para estudar a construção de uma SPA e o uso de rotas com JavaScript. Entre os temas mais presentes estão:
 
+-- É necessario adicionar node_modules ao arquivo e rodar o lite-server para que a aplicação funcione corretamente!
+
 - Estrutura de dados no HTML;
 - Mudança de background-image;
 - Mobile First;
